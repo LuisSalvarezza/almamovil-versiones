@@ -1,11 +1,14 @@
 {
-  "versionCode": 415,
-  "versionName": "4.15",
-  "fecha": "2026-11-12",
-  "url": "https://github.com/AlmaMovil/almamovil.github.io/releases/download/v4.15/AlmaMovil-4.15.apk",
-  "sha256": "6e0dbd0667aa6626cd18e9336679c9f5724206e08fae7e06615751619676d4dd",
+  "versionCode": 417,
+  "versionName": "4.17",
+  "fecha": "2026-11-17",
+  "url": "https://github.com/LuisSalvarezza/almamovil-versiones/releases/download/v4.17/AlmaMovil-4.17.apk",
+  "sha256": "3e41874debcbf4d7b2b3a9539e6003e74054527a2dcd8d9ac0b1ab04cc2e053c",
   "novedades": [
-    "La versión nueva se descarga e instala desde la app, sin pasar por el navegador"
+    "Los pedidos y cobros que no se envían quedan marcados con error y se reenvían",
+    "Encabezado de la empresa opcional en los reportes",
+    "Nueva pantalla Mis datos y empresa",
+    "Actualizar busca la versión nueva y la instala desde la app, sin código"
   ],
   "minimaVersionCode": 410
 }
