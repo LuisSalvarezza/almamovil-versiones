@@ -1,14 +1,17 @@
 {
-  "versionCode": 417,
-  "versionName": "4.17",
-  "fecha": "2026-11-17",
-  "url": "https://github.com/LuisSalvarezza/almamovil-versiones/releases/download/v4.17/AlmaMovil-4.17.apk",
-  "sha256": "3e41874debcbf4d7b2b3a9539e6003e74054527a2dcd8d9ac0b1ab04cc2e053c",
+  "versionCode": 418,
+  "versionName": "4.18",
+  "fecha": "2026-11-24",
+  "url": "https://github.com/LuisSalvarezza/almamovil-versiones/releases/download/v4.18/AlmaMovil-4.18.apk",
+  "sha256": "57a233782282035a9a77eee0d1c9a0a3b1ea36dbfdd17d7cd3084e3a2767f98c",
   "novedades": [
-    "Los pedidos y cobros que no se envían quedan marcados con error y se reenvían",
-    "Encabezado de la empresa opcional en los reportes",
-    "Nueva pantalla Mis datos y empresa",
-    "Actualizar busca la versión nueva y la instala desde la app, sin código"
+    "Pedido WhatsApp: el cliente arma su pedido en una página y te llega por WhatsApp",
+    "Cobranza asistida: cobrar hablando o escribiendo",
+    "Botón Asistente en el tablero con el resumen del día",
+    "El asistente IA contesta más rápido",
+    "Listas de precios del vendedor y del cliente, y ofertas como en el sistema (API)",
+    "Ayuda de cada pantalla en el portal",
+    "Corregida la cantidad que pasaba de 6 a 70 al tocar + en el ítem"
   ],
   "minimaVersionCode": 410
 }
